@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mikaelabaluyot
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning CSS and HTML
+- 👋 Hi, I’m Mikaela
+- 👀 I’m interest in learning more about Python to deepen my knowledge on it.
+- 🌱 I’m currently doing my first year of Bachelors in Information Technology
 
 
 <!---
