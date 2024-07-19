@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mikaela
-- 👀 I’m interest in learning more about Python to deepen my knowledge on it.
+- 👀 I’m interest in learning more about Python, as well as Github to deepen my knowledge on it.
 - 🌱 I’m currently doing my first year of Bachelors in Information Technology
 
 
