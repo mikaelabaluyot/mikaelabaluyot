@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mikaela
-- 👀 I’m interest in learning more about Python, as well as Github to deepen my knowledge on it.
-- 🌱 I’m currently doing my first year of Bachelors in Information Technology
+A 25-year-old girl just trying her best in the tech field. Diving head first into coding, cloud computing, and everything in between.Taking it one line of code at a time.
 
 
 <!---
