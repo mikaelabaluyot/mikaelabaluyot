@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mikaela.
-- A 25-year-old girl just trying her best in the tech field. Diving head first into coding, cloud computing, and everything in between. Taking it one line of code at a time.
+- A 20-something girl just trying her best in the tech field. Diving headfirst into coding, cybersecurity, data analytics, and everything in between. Taking it one line of code at a time.
 
 
 <!---
